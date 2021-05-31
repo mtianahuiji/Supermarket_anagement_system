@@ -1,11 +1,11 @@
 #学习使用MarkDown
 
 - list1
-  - list1.1
-  - list1.2   what
+    - list1.1
+    - list1.2   what
 - list2
-  - list2.1
-  -    test
+    - list2.1
+    -    test
 
 > include by xxxx
 >> second
