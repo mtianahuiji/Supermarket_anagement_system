@@ -32,7 +32,7 @@ int show_login_id(MYSQL* conn, MYSQL_RES* res, char id[]);
 
 
 ### basic_info ctl 用户基础信息管理
-用户id(登陆用)   姓名 *于login表中信息共享*\n
+用户id(登陆用)   姓名 *于login表中信息共享*  
 性别  岁数  手机号
 ```
 int add_basic(MYSQL* conn, char id[], char name[], char sex[], char age[], char tel_number[]);
