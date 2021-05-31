@@ -38,13 +38,13 @@ row 2 col 1 | row 2 col 2
 `printf("This is a line of code.\n");`
 
 ```
-  printf("Here are");
-  printf("few line");
-  printf("of code.\n");
+printf("Here are");
+printf("few line");
+printf("of code.\n");
 ```
 
 ##flow chart
-```flow
+flow
 st=>start: start
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -52,4 +52,4 @@ e=>end
 st->op->cond
 cond(Yes)->e
 cond(No)->op
-&```
+
