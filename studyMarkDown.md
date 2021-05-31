@@ -1,4 +1,11 @@
-#学习使用MarkDown
+# 学习使用MarkDown
+
+Note:  
+纯文字要换行本行末尾加两个空格  
+用#加标题级别要空格  
+比如
+##标题
+## 标题
 
 - list1
     - list1.1
@@ -19,12 +26,12 @@ or ***Italics blod***
 [google](https://www.google.com.hk/)
 [baidu](https://www.baidu.com)
 
-###Dividing line
+### Dividing line
 ***
 Dividing line
 ---
 
-###table example
+### table example
  header 1 | header 2
 -:|:-
 row 1 col 1 | row 1 col 2
@@ -43,7 +50,7 @@ printf("few line");
 printf("of code.\n");
 ```
 
-##flow chart
+## flow chart
 flow
 st=>start: start
 op=>operation: My Operation
