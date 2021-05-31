@@ -20,8 +20,8 @@ Note:
 >> second
 >>> wow
 
-*Italics* && **bold**
-or ***Italics blod***
+*Italics* && **bold**  
+or ***Italics blod***  
 ~~strikeout~~
 
 ### insert google
