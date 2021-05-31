@@ -1,0 +1,2 @@
+# Supermarket_anagement_system
+MYSQL学习 利用C语言编写的基于MYSQL超市数据管理系统
